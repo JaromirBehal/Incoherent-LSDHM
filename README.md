@@ -1,5 +1,6 @@
 # Incoherent-LSDHM - Data and Function Structure
 Reproduction of main results present in paper: J. Běhal and M. Ježek, "Incoherent lateral shearing digital holographic microscopy," Optica 12, 620-625 (2025)
+https://doi.org/10.1364/OPTICA.555786
 
 The repository is organized as follows:
 
